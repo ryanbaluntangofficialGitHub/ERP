@@ -1,1 +1,0 @@
-export default function Production(){ return (<div><h2 className='text-2xl font-semibold mb-4'>Production</h2><p>Placeholder for Production module</p></div>); }

@@ -1,1 +1,0 @@
-export default function Accounting(){ return (<div><h2 className='text-2xl font-semibold mb-4'>Accounting</h2><p>Placeholder for Accounting module</p></div>); }
